@@ -1,6 +1,8 @@
 # Two sum
 
-## description
+## Description
+
+难度：Easy
 
 找到两数之和为目标值的配对，只有唯一解。
 
@@ -26,7 +28,7 @@ Link:
 - [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
 - [https://leetcode-cn.com/problems/two-sum/description](https://leetcode-cn.com/problems/two-sum/description)
 
-## solutions
+## Solutions
 
 ### Java
 
