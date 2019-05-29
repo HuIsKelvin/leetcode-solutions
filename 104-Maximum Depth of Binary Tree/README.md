@@ -1,8 +1,10 @@
 # 104. Maximum Depth of Binary Tree
 
-## Description
+## Difficulty:
 
-难度：Easy
+Easy
+
+## Description
 
 link:
 - [https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/)

@@ -1,8 +1,10 @@
 # 26.Remove Duplicates from Sorted Array
 
-## Description
+## Difficulty:
 
-难度：Easy
+Easy
+
+## Description
 
 link:
 - [https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)

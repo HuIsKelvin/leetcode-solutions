@@ -1,8 +1,10 @@
 # 26.Remove Duplicates from Sorted Array
 
-## Description
+## Difficulty:
 
-Difficulty: Medium
+Medium
+
+## Description
 
 link:
 - [https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/add-two-numbers/)

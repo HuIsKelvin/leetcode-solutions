@@ -1,8 +1,10 @@
 # Two sum
 
-## Description
+## Difficulty:
 
-难度：Easy
+Easy
+
+## Description
 
 找到两数之和为目标值的配对，只有唯一解。
 

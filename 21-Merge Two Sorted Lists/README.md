@@ -1,8 +1,10 @@
 # 26 Merge Two Sorted Lists
 
-## Description
+## Difficulty:
 
-难度：Easy
+Easy
+
+## Description
 
 link：
 - [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
