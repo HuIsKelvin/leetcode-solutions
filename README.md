@@ -1,2 +1,3 @@
 # leetcode-solutions
-Mark my solutions for leetcode
+
+Mark my solutions for Leetcode
